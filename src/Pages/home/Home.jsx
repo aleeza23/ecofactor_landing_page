@@ -8,6 +8,7 @@ import Testimonial from "../../Components/home sections/Testimonial";
 const Home = () => {
   return <>
     <Layout>
+    <div className="container">
       <HeroSection />
       <Testimonial />
       <Testimonial />
@@ -15,6 +16,7 @@ const Home = () => {
       <Team />
       <Testimonial />
       <Contact />
+      </div>
     </Layout>
   </>;
 };
