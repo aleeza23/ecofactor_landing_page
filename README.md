@@ -2,5 +2,5 @@
 
 
 ![Home Page](1st.PNG)
-![Features Section](path/to/features-section-image.png)
-![Contact Section](path/to/contact-section-image.png)
+![Features Section](2nd.PNG)
+![Contact Section](screencapture-ecofactorsite-netlify-app-2024-10-07-10_29_08.png)
